@@ -899,20 +899,3 @@ http://svtv.xyz:8080/series/Rigo2/r4TqXGc/269993.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El sonido de la magia *back-tem S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54AI9YzrsO6cUj0oI6VkFEEAz0x.jpg" group-title="BACKUP-TEM",El sonido de la magia *back-tem S01 E06
 http://svtv.xyz:8080/series/Rigo2/r4TqXGc/269994.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQSv2yEvToEGlPosilsnyWukX3v.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E01
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270642.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdLFdzQe1NOfLeJpcbkL5ggX84p.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E02
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KIj9ZIl9lyUYdyaN8K3H5TIRH2.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E03
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270644.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n48Qq1D9eA1QapZoEixYoZ6DdBg.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E04
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270645.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FSgcXlrAzki6NGBfyH6QAhKCs.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E05
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270646.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29vOMuT3zXVME06dr1U1VqAtTJA.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E06
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270647.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95EseVOx9PTahJ7f8b6HOt56TK2.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E07
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270648.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las Bravas FC *back-tem S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45gWJBV1JNbiP4nIPjb8oFYSjv.jpg" group-title="BACKUP-TEM",Las Bravas FC *back-tem S01 E08
-http://svtv.xyz:8080/series/Rigo2/r4TqXGc/270649.mkv
-
