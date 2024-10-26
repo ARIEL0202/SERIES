@@ -1,4 +1,3 @@
-
 #EXTINF:-1 tvg-id="" tvg-name="Friends S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtaoynlPpENx3Ss2laC7wgqLIP.jpg" group-title="COMEDIA / FAMILIA",Friends S01 E01
 http://nxt.plus:8080/series/olmos/1234guz/160244.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Friends S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q00vWBNdLBIprqA3zQJ3TpfXNhu.jpg" group-title="COMEDIA / FAMILIA",Friends S01 E02
